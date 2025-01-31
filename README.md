@@ -17,5 +17,6 @@
 **OUTPUT**:
 Model Accuracy: 100.00%
 Decision Tree visualization saved as 'decision_tree.png'.
+![Image](https://github.com/user-attachments/assets/092f91e3-6c88-42f3-adb2-a7df3c5102be)
 
 
