@@ -12,3 +12,10 @@
 **BATCH DURATION**:JAN 5TH TO MAY 5TH
 
 **MENTOR NAME**: NEELA SANTOSH KUMAR
+
+
+**OUTPUT**:
+Model Accuracy: 100.00%
+Decision Tree visualization saved as 'decision_tree.png'.
+
+
